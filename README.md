@@ -1,1 +1,1 @@
-Here are my solutions to problems posed in [AceptaElReto](https://aceptaelreto.com)
+Soluciones mas o menos bien explicadas para [AceptaElReto](https://aceptaelreto.com)
