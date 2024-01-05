@@ -1,1 +1,1 @@
-Soluciones mas o menos bien explicadas para [AceptaElReto](https://aceptaelreto.com)
+Soluciones en C++ para problemas de programación de [Acepta el Reto](aceptaelreto.com) 
