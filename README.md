@@ -1,4 +1,4 @@
-Soluciones en C++ para problemas de programación de [Acepta el Reto](aceptaelreto.com) 
+Soluciones en C++ para problemas de programación de [Acepta el Reto](https://www.aceptaelreto.com) 
 | Numero | Enlace al problema | Enlace a la solución |
 |--------|--------------------|---------------------|
 | 116 | [Suma descendente](https://aceptaelreto.com/problem/statement.php?id=116) | [116.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/116.cpp) |
