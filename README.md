@@ -14,5 +14,6 @@ Soluciones en C++ para problemas de programación de [Acepta el Reto](https://ww
 | 332 | [Pesando Carretas](https://aceptaelreto.com/problem/statement.php?id=332) | [332.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/332.cpp) |
 | 340 | [Cuadrados con cerillas](https://aceptaelreto.com/problem/statement.php?id=340) | [340.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/340.cpp) |
 | 355 | [Gregorio XIII](https://aceptaelreto.com/problem/statement.php?id=355) | [355.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/355.cpp) |
+| 362 | [El día de Navidad](https://aceptaelreto.com/problem/statement.php?id=362) | [362.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/362.cpp) |
 | 427 | [Yo soy tu...](https://aceptaelreto.com/problem/statement.php?id=427) | [427.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/427.cpp) |
 | 703 | [¡Maldito odómetro!](https://aceptaelreto.com/problem/statement.php?id=703) | [703.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/703.cpp) |
