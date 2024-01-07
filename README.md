@@ -17,3 +17,4 @@ Soluciones en C++ para problemas de programación de [Acepta el Reto](https://ww
 | 362 | [El día de Navidad](https://aceptaelreto.com/problem/statement.php?id=362) | [362.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/362.cpp) |
 | 427 | [Yo soy tu...](https://aceptaelreto.com/problem/statement.php?id=427) | [427.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/427.cpp) |
 | 703 | [¡Maldito odómetro!](https://aceptaelreto.com/problem/statement.php?id=703) | [703.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/703.cpp) |
+| 715 | [¿Hay suficientes?](https://aceptaelreto.com/problem/statement.php?id=715) | [715.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/715.cpp) |
