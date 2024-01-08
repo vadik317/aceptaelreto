@@ -1,7 +1,7 @@
 Soluciones en C++ para problemas de programación de [Acepta el Reto](https://www.aceptaelreto.com) 
 | Numero | Enlace al problema | Enlace a la solución |
 |--------|--------------------|---------------------|
-| 116 | [Suma descendente](https://aceptaelreto.com/problem/statement.php?id=116) | [116.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/116.cpp) |
+| 116 | [¡Hola Mundo!](https://aceptaelreto.com/problem/statement.php?id=116) | [116.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/116.cpp) |
 | 117 | [La fiesta aburrida](https://aceptaelreto.com/problem/statement.php?id=117) | [117.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/117.cpp) |
 | 148 | [Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148) | [148.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/148.cpp) |
 | 191 | [Los problemas de ser rico](https://aceptaelreto.com/problem/statement.php?id=191) | [191.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/191.cpp) |
