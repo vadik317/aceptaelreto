@@ -18,5 +18,6 @@ Intento añadir mas problemas a la lista segun los vaya resolviendo
 | 362 | [El día de Navidad](https://aceptaelreto.com/problem/statement.php?id=362) | [362.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/362.cpp) |
 | 427 | [Yo soy tu...](https://aceptaelreto.com/problem/statement.php?id=427) | [427.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/427.cpp) |
 | 544 | [Que no se atraganten](https://aceptaelreto.com/problem/statement.php?id=544) | [544.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/544.cpp) |
+| 595 | [¿En qué volumen?](https://aceptaelreto.com/problem/statement.php?id=595) | [595.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/595.cpp) |
 | 703 | [¡Maldito odómetro!](https://aceptaelreto.com/problem/statement.php?id=703) | [703.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/703.cpp) |
 | 715 | [¿Hay suficientes?](https://aceptaelreto.com/problem/statement.php?id=715) | [715.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/715.cpp) |
