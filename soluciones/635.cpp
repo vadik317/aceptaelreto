@@ -12,4 +12,5 @@ int main()
             cout << (n/100)+1 << "\n";
         }
     }
+    return 0;
 }
