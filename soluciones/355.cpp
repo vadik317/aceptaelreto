@@ -15,6 +15,7 @@ int main()
             cout << "29\n";
         } else {
             cout << "28\n"; 
+        }
     }
-    }
+    return 0;
 }
