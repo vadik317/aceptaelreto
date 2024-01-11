@@ -9,4 +9,5 @@ int main() {
     scanf("%d:%d 0 %d",&horas,&minutos,&velocidad);
     cout << ((horas + (minutos / 60.0))*velocidad)<<"\n";
     }
+    return 0;
 }
