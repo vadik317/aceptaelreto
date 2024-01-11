@@ -17,4 +17,5 @@ int main() {
         arriba = 0;
         abajo = 0;
     }
+    return 0;
 }
