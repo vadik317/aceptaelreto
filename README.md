@@ -5,6 +5,7 @@ Intento añadir mas problemas a la lista segun los vaya resolviendo
 | 116 | [¡Hola Mundo!](https://aceptaelreto.com/problem/statement.php?id=116) | [116.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/116.cpp) |
 | 117 | [La fiesta aburrida](https://aceptaelreto.com/problem/statement.php?id=117) | [117.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/117.cpp) |
 | 148 | [Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148) | [148.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/148.cpp) |
+| 158 | [Los saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158) | [158.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/158.cpp) |
 | 191 | [Los problemas de ser rico](https://aceptaelreto.com/problem/statement.php?id=191) | [191.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/191.cpp) |
 | 216 | [Goteras](https://aceptaelreto.com/problem/statement.php?id=216) | [216.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/216.cpp) |
 | 217 | [¿Qué lado de la calle?](https://aceptaelreto.com/problem/statement.php?id=217) | [217.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/217.cpp) |
