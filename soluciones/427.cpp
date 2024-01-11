@@ -16,4 +16,5 @@ int main()
             cout << a << ", yo soy tu " << b << "\n";
         }
     }
+    return 0;
 }
