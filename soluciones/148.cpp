@@ -9,4 +9,5 @@ int main() {
         cout << (60-minutos) + ((23-horas)*60) << "\n";
         cin >> horas >> puntos >> minutos;
     }
+    return 0;
 }
