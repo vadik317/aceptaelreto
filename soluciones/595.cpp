@@ -8,4 +8,5 @@ int main()
         cin >> n;
         cout << n/100 << "\n";
     }
+    return 0;
 }
