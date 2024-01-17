@@ -19,6 +19,7 @@ Intento añadir mas problemas a la lista segun los vaya resolviendo
 | 340 | [Cuadrados con cerillas](https://aceptaelreto.com/problem/statement.php?id=340) | [340.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/340.cpp) |
 | 355 | [Gregorio XIII](https://aceptaelreto.com/problem/statement.php?id=355) | [355.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/355.cpp) |
 | 362 | [El día de Navidad](https://aceptaelreto.com/problem/statement.php?id=362) | [362.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/362.cpp) |
+| 369 | [Contando en la arena](https://aceptaelreto.com/problem/statement.php?id=369) | [369.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/369.cpp) |
 | 373 | [Cubos visibles](https://aceptaelreto.com/problem/statement.php?id=373) | [373.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/373.cpp) |
 | 427 | [Yo soy tu...](https://aceptaelreto.com/problem/statement.php?id=427) | [427.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/427.cpp) |
 | 544 | [Que no se atraganten](https://aceptaelreto.com/problem/statement.php?id=544) | [544.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/544.cpp) |
