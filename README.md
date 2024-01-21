@@ -18,6 +18,7 @@ Intento añadir mas problemas a la lista segun los vaya resolviendo
 | 332 | [Pesando Carretas](https://aceptaelreto.com/problem/statement.php?id=332) | [332.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/332.cpp) |
 | 340 | [Cuadrados con cerillas](https://aceptaelreto.com/problem/statement.php?id=340) | [340.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/340.cpp) |
 | 355 | [Gregorio XIII](https://aceptaelreto.com/problem/statement.php?id=355) | [355.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/355.cpp) |
+| 359 | [Timo en el cocedero de mariscos](https://aceptaelreto.com/problem/statement.php?id=359) | [359.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/359.cpp) |
 | 362 | [El día de Navidad](https://aceptaelreto.com/problem/statement.php?id=362) | [362.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/362.cpp) |
 | 369 | [Contando en la arena](https://aceptaelreto.com/problem/statement.php?id=369) | [369.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/369.cpp) |
 | 373 | [Cubos visibles](https://aceptaelreto.com/problem/statement.php?id=373) | [373.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/373.cpp) |
