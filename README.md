@@ -8,6 +8,7 @@ Intento añadir mas problemas a la lista segun los vaya resolviendo
 | 148 | [Nochevieja](https://aceptaelreto.com/problem/statement.php?id=148) | [148.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/148.cpp) |
 | 149 | [San Fermines](https://aceptaelreto.com/problem/statement.php?id=149) | [149.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/149.cpp) |
 | 153 | [Reloj a través del espejo](https://aceptaelreto.com/problem/statement.php?id=153) | [153.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/153.cpp) |
+| 155 | [Perímetro de un rectángulo](https://aceptaelreto.com/problem/statement.php?id=155) | [155.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/155.cpp) |
 | 158 | [Los saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158) | [158.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/158.cpp) |
 | 165 | [Número hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [165.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/165.cpp) |
 | 191 | [Los problemas de ser rico](https://aceptaelreto.com/problem/statement.php?id=191) | [191.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/191.cpp) |
