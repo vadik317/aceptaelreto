@@ -11,6 +11,7 @@ Intento añadir mas problemas a la lista segun los vaya resolviendo
 | 155 | [Perímetro de un rectángulo](https://aceptaelreto.com/problem/statement.php?id=155) | [155.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/155.cpp) |
 | 158 | [Los saltos de Mario](https://aceptaelreto.com/problem/statement.php?id=158) | [158.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/158.cpp) |
 | 165 | [Número hyperpar](https://aceptaelreto.com/problem/statement.php?id=165) | [165.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/165.cpp) |
+| 166 | [Zapping](https://aceptaelreto.com/problem/statement.php?id=166) | [166.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/166.cpp) |
 | 191 | [Los problemas de ser rico](https://aceptaelreto.com/problem/statement.php?id=191) | [191.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/191.cpp) |
 | 216 | [Goteras](https://aceptaelreto.com/problem/statement.php?id=216) | [216.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/216.cpp) |
 | 217 | [¿Qué lado de la calle?](https://aceptaelreto.com/problem/statement.php?id=217) | [217.cpp](https://github.com/vadik317/aceptaelreto/blob/main/soluciones/217.cpp) |
